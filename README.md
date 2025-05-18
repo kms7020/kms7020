@@ -2,7 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=280&section=header&text=Hi%20👋,%20I'm%20Minseung%20Kim&fontSize=45&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Java%20%26%20Spring&descSize=22&descAlign=50&descAlignY=70)
 
-
 </div>
 
 ---
